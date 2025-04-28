@@ -1,4 +1,4 @@
-# ShoppingCart - Modern E-commerce Platform with Next.js and AI
+# ShoppingCart - Modern E-commerce Platform with Next.js and Express.js
 ## Overview
 
 ShoppingCart is a personal e-commerce website project built with **Next.js** for optimized web performance and integrated with **ChatGPT API** for intelligent chat features.
