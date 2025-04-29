@@ -22,7 +22,7 @@ Mai Ngọc Tú
 
 ## Technologies
 
-* **Framework:** [Next.js](https://nextjs.org/) (v14.x)
+* **Framework:** [Next.js](https://nextjs.org/) (v15.x)
 * **AI API:** [ChatGPT API](https://openai.com/api/)
 * **UI&UX:** [AntDesign] (https://ant.design/)
 
